@@ -3,6 +3,14 @@
     text-align: center;
 }
 
+#contack,
+#shop,
+#artist,
+#new {
+    font-size: 20px;
+
+}
+
 .header {
     background-color: skyblue;
     padding: 20px;
