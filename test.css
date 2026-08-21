@@ -1,0 +1,10 @@
+button {
+    box-sizing: border-box;
+    height: 50px;
+    width: 100px;
+    border-radius: 30px;
+    background-color: skyblue;
+    font-size: 25px;
+    margin-top: 20px;
+    margin-left: 500px;
+}
